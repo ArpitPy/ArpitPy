@@ -24,10 +24,8 @@
 6. NodeJS
 7. MySQL
 8. MongoDB
-9. php
-10. C++
-11. Python
-12. Java
+9. C++
+10. Python
 ### 📢 Find me on social media:
 - ❤ [Instagram](https://www.instagram.com/arpit_pandey1/?hl=en)
 - 🙂 [Facebook](https://www.facebook.com/profile.php?id=100062151846443)
