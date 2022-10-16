@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 📝 I regularly write articles on [https://terminalstack.com/](https://terminalstack.com/)
+- 📝 I regularly write articles on [Arpit's Medium Blog](https://medium.com/@arpitpandeyofc)
 
 - 📫 How to reach me **arpitpandeyofc@gmail.com**
 
