@@ -1,8 +1,9 @@
+![logo](https://user-images.githubusercontent.com/71400381/202734465-4ed6cd3b-0915-47d0-96c3-26c32c330372.gif)
+
 <h1 align="center">Hi 👋, I'm Arpit Pandey</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arpitpy&label=Profile%20views&color=0e75b6&style=flat" alt="arpitpy" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitpy" alt="arpitpy" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
