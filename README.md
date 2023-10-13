@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arpitpy&" alt="arpitpy" /></p>
 
-[![@arpitpandey0's Holopin board](https://holopin.me/arpitpandey0)](https://holopin.io/@arpitpandey0)
+[![An image of @arpitpandey0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/arpitpandey0)](https://holopin.io/@arpitpandey0)
