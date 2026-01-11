@@ -4,7 +4,6 @@
 <h3 align="center"> ⚒️ Full Stack Web Developer‎  |  🤖 Machine Learning Engineer  |  🌍 Open Source Contributor </h3><br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=arpitpy&label=Profile%20views&color=0e75b6&style=flat" alt="arpitpy" /> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitpy" alt="arpitpy" /></a> </p>
 
 - ⚒️ I love developing new web-apps, ML models, automation scripts and fun projects.
 
